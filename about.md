@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Blog
+title: About
 permalink: /about/
 published: true
 ---
 
-Some information about you!
+Currently working as a software engineer for Reckon Point LLC. 
 
 ### More Information
 
